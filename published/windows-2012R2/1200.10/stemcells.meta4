@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-1200.10-aws-xen-hvm-windows2012R2-go_agent.tgz">
+    <hash type="md5">b48d548492895ec6c81f675054060c46</hash>
+    <hash type="sha-1">dbf7a9c35f2eb99e8f02e50b87bb2f46a7886c61</hash>
+    <hash type="sha-256">9f8e005a2c29a2a0c1d7f205332eb7424432cc995bad8b8946ae60f17cd45511</hash>
+    <hash type="sha-512">f5b66af0789114f024f21e66eb68ccc4ab55266b3b691cd87ad31134880d2459748356b3eaebc8df6bc18e58fdaa77cf7c7da1987f90e3e438a1858141db3c34</hash>
+    <size>1930</size>
+    <url>https://bosh-windows-stemcells-production.s3.amazonaws.com/light-bosh-stemcell-1200.10-aws-xen-hvm-windows2012R2-go_agent.tgz</url>
+    <version>1200.10</version>
+  </file>
+  <file name="light-bosh-stemcell-1200.10-azure-hyperv-windows2012R2-go_agent.tgz">
+    <hash type="md5">a82edd0d060229106fd5f4e365314ed8</hash>
+    <hash type="sha-1">106e013feb0c4c0e08aca3245ef0accc4b64da6d</hash>
+    <hash type="sha-256">80ca1d2f5c01261fed033c07ebb384827e31438a6012b0851b37ae9b086cba41</hash>
+    <hash type="sha-512">ac34644d4b756ea5f4f9cf990e4858bb15d316dd38b6a67abfaa8de929856f4ca0ae80091d0bb7cc3f26b0445513e7330add01ccf57837abed310d8d628604a2</hash>
+    <size>437</size>
+    <url>https://bosh-windows-stemcells-production.s3.amazonaws.com/light-bosh-stemcell-1200.10-azure-hyperv-windows2012R2-go_agent.tgz</url>
+    <version>1200.10</version>
+  </file>
+  <file name="light-bosh-stemcell-1200.10-google-kvm-windows2012R2-go_agent.tgz">
+    <hash type="md5">e43ef7d55a05e9dbaa622f7fd2ce0b48</hash>
+    <hash type="sha-1">07c82672c6b19daa9e27a8086affdd81e7298a44</hash>
+    <hash type="sha-256">11260b69af12affb18656087d48b6453f74462e5655210ff44a82c91386fe1d1</hash>
+    <hash type="sha-512">89ed4f8bae876e415edb128e1fd0b1f4a0191818ec5dbb0b53f122d9a6e420e959164ce191b718b2874d9c68c6f0c4081d2b157c03058718741c113ee2981dd4</hash>
+    <size>2025</size>
+    <url>https://bosh-windows-stemcells-production.s3.amazonaws.com/light-bosh-stemcell-1200.10-google-kvm-windows2012R2-go_agent.tgz</url>
+    <version>1200.10</version>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
