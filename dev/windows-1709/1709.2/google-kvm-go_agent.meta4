@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-1709.2-google-kvm-windows2016-go_agent.tgz">
+    <hash type="md5">2efc35fa367eac2e7a232c0d5c68a3a8</hash>
+    <hash type="sha-1">27faa875403364492f5d33891391de5d479991c0</hash>
+    <hash type="sha-256">6fe898267b38f4c6f97d3311edefaefa743515219cd93608cec4458cb1b53753</hash>
+    <hash type="sha-512">2487d6537c9835ea534a4160e6375bc6da6d6c504e993d088ee204a859be59f672773f3a464d1aad4a0a78a4f7f6f9a622d8e1f63d0f5fd4f462935f3e245bcd</hash>
+    <size>615</size>
+    <url>https://bosh-windows-stemcells-production.s3.amazonaws.com/light-bosh-stemcell-1709.2-google-kvm-windows2016-go_agent.tgz</url>
+    <version>1709.2</version>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
