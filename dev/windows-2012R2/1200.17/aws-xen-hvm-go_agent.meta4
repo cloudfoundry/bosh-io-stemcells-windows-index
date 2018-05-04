@@ -9,5 +9,14 @@
     <url>https://bosh-windows-stemcells-production.s3.amazonaws.com/2012R2/light-bosh-stemcell-1200.17-aws-xen-hvm-windows2012R2-go_agent-us-east-1.tgz</url>
     <version>1200.17</version>
   </file>
+  <file name="light-bosh-stemcell-1200.17-aws-xen-hvm-windows2012R2-go_agent.tgz">
+    <hash type="md5">a7007f458e9296213fcc385afd3a581a</hash>
+    <hash type="sha-1">1907d8718d83b970f2a966d9f5d43a41a0fc6248</hash>
+    <hash type="sha-256">205242b85ca388f3642c07c75888b4394660e2ef9a02c5d68dbb4210535938fa</hash>
+    <hash type="sha-512">f8735887a72cbdbeb30dc9acf55e1a90764cc1b15a25c123c50e3a22f3beac1595a3ce353498b195979297f1139d06d9f910df2643b2e389605583e634187917</hash>
+    <size>2108</size>
+    <url>https://bosh-windows-stemcells-production.s3.amazonaws.com/2012R2/light-bosh-stemcell-1200.17-aws-xen-hvm-windows2012R2-go_agent.tgz</url>
+    <version>1200.17</version>
+  </file>
   <generator>metalink.dpb587.github.io/0.0.0</generator>
 </metalink>
