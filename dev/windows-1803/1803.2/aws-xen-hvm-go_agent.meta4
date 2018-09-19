@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-1803.2-aws-xen-hvm-windows1803-go_agent.tgz">
+    <hash type="md5">3307626dab77fa95efd276872bbaf1d5</hash>
+    <hash type="sha-1">d8de9f5ae433c5e9d577f7a06dbe5ea0870b5671</hash>
+    <hash type="sha-256">081db0391816356707752c5198225cd9a229dc67f3b0a2b881e1b8027d0cc84d</hash>
+    <hash type="sha-512">5a461188d8c30429f71b632549241805a6b8233800b81c4ffa8e17b1ce07898fedcb9d947a2429836c3f3dff53c9b0ab80d41ce87b8e930c7e1586a307a9db44</hash>
+    <size>574</size>
+    <url>https://bosh-windows-stemcells-production.s3.amazonaws.com/1803/light-bosh-stemcell-1803.2-aws-xen-hvm-windows1803-go_agent.tgz</url>
+    <version>1803.2</version>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
