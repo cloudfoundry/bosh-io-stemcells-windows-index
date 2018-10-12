@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-1200.25-aws-xen-hvm-windows2012R2-go_agent.tgz">
+    <hash type="md5">cac2b4773afcc917a57e3ba4784eb3f2</hash>
+    <hash type="sha-1">605ec92a55158f706c404738be5d222bd5d179be</hash>
+    <hash type="sha-256">bf48d3e82f796f30489f20b55398662cd7800ded4e8e1d5e1495ab60939cac70</hash>
+    <hash type="sha-512">2680053472a71b91046b704265b97713522e5a24799f2adbbd3d833b27b4425bf7f3be3e60b290f5c0e12287c55ab0fb8d5de414961197045f744071c0a25f98</hash>
+    <size>575</size>
+    <url>https://bosh-windows-stemcells-production.s3.amazonaws.com/2012R2/light-bosh-stemcell-1200.25-aws-xen-hvm-windows2012R2-go_agent.tgz</url>
+    <version>1200.25</version>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
