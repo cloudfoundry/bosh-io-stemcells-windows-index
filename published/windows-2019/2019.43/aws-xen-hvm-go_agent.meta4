@@ -2,9 +2,9 @@
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="light-bosh-stemcell-2019.43-aws-xen-hvm-windows2019-go_agent.tgz">
     <hash type="md5">e5cabe1a23c92ffbcdc86144999f3e2c</hash>
-    <hash type="sha-1">3308dddd5e322c1361d5f47e1fa5745a4f7ebf70</hash>
-    <hash type="sha-256">df82ec0e6b19ab7c776a42fba07f7907d0aba5563136c0f4b579e48520e8cd9e</hash>
-    <hash type="sha-512">9ec5fd9c61f40c737381627210d466703d6d57740f8a8eb5278daef893cfc1ac1dce9ab9484c11469a8527e65d9ff45536c83f2bbfa0fea885c29a3be0811d76</hash>
+    <hash type="sha-1">8f84bbeabfc0d12b7710c5413e4cd2077acebfdf</hash>
+    <hash type="sha-256">7cf2fddfbc8f331a408a1cc81b01a03e08afe138a0025f6ef7dd85167e825212</hash>
+    <hash type="sha-512">34e815145572657e53962fcc38930a1df6212f28c4c0c6687231adbab6ad814ece540c107e5e02e8c99b8f7af1ce194e3c1ce401c7555b211b51a484516d1c1b</hash>
     <size>616</size>
     <url>https://bosh-windows-stemcells-production.s3.amazonaws.com/2019/light-bosh-stemcell-2019.43-aws-xen-hvm-windows2019-go_agent.tgz</url>
     <version>2019.43</version>
