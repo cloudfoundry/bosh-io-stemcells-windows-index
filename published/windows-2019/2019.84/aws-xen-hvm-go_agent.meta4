@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="light-bosh-stemcell-2019.84-aws-xen-hvm-windows2019-go_agent.tgz">
-    <hash type="md5">6b75ad9c3b322649c7f0b23408977e8d</hash>
-    <hash type="sha-1">daca008903403acfd24a2f9cff29b75673bc94b5</hash>
-    <hash type="sha-256">c413a3d93cbc0bd523da675300ae1c95421d039493b90ad98f8376617b5bce52</hash>
-    <hash type="sha-512">15df875e78396c7f3958d9fb73b14ed092a9fdea9f3df839f717b3e43cb2d974e64aab975d3540aee6687e39d06741ea8d1930f0cc4c46320e392fe352147276</hash>
-    <size>605</size>
+    <hash type="md5">cd0ebe6da6794a8cfa828c80fe80ce2d</hash>
+    <hash type="sha-1">aa687e3d84fec050aec03eefabe575a3b80f229c</hash>
+    <hash type="sha-256">7799690d0a6f1000a47c882308e4cf75e773166fa50755ac17497429cc2b9288</hash>
+    <hash type="sha-512">d97f64b6ffed9e54ad799c6bde65011f834542ebcf375809c9c616b50bcdd2f4dfe88bc8ce8e0144813ae2171e835e5eb41ac2d971d6ccaea1613cc6be5a4e8c</hash>
+    <size>609</size>
     <url>https://bosh-windows-stemcells-production.s3.amazonaws.com/2019/light-bosh-stemcell-2019.84-aws-xen-hvm-windows2019-go_agent.tgz</url>
     <version>2019.84</version>
   </file>
