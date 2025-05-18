@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="light-bosh-stemcell-2019.86-azure-hyperv-windows2019-go_agent.tgz">
+    <hash type="md5">40be482c7aacdcc9bd8cf8034a81fc4c</hash>
+    <hash type="sha-1">e4d414c897739cb2c1bf3850f0d476e40017243c</hash>
+    <hash type="sha-256">7eb59c87688352808fe5382e091fdb7a20fb6bcaa33e15ed1221665b08847f04</hash>
+    <hash type="sha-512">d34b3a806448750333d239ccf006a3a668790e8710e5f887b357aaa1fc1b327d0ffef67ba304f1f69ffa7e08d487a7acdde1c51f3e19c170b007d5a0197d9b5f</hash>
+    <size>377</size>
+    <url>https://bosh-windows-stemcells-production.s3.amazonaws.com/2019/light-bosh-stemcell-2019.86-azure-hyperv-windows2019-go_agent.tgz</url>
+    <version>2019.86</version>
+  </file>
+  <generator>metalink.dpb587.github.io/0.0.0</generator>
+</metalink>
